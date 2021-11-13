@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer", "Pointer\Pointer.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TransmissionParametrs", "TransmissionParametrs\TransmissionParametrs.vcxproj", "{D20DAEBD-0DD0-4CE2-8676-587FB06DD921}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Referens", "Referens\Referens.vcxproj", "{142D2942-B093-4729-A949-5010B7941598}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{D20DAEBD-0DD0-4CE2-8676-587FB06DD921}.Release|x64.Build.0 = Release|x64
 		{D20DAEBD-0DD0-4CE2-8676-587FB06DD921}.Release|x86.ActiveCfg = Release|Win32
 		{D20DAEBD-0DD0-4CE2-8676-587FB06DD921}.Release|x86.Build.0 = Release|Win32
+		{142D2942-B093-4729-A949-5010B7941598}.Debug|x64.ActiveCfg = Debug|x64
+		{142D2942-B093-4729-A949-5010B7941598}.Debug|x64.Build.0 = Debug|x64
+		{142D2942-B093-4729-A949-5010B7941598}.Debug|x86.ActiveCfg = Debug|Win32
+		{142D2942-B093-4729-A949-5010B7941598}.Debug|x86.Build.0 = Debug|Win32
+		{142D2942-B093-4729-A949-5010B7941598}.Release|x64.ActiveCfg = Release|x64
+		{142D2942-B093-4729-A949-5010B7941598}.Release|x64.Build.0 = Release|x64
+		{142D2942-B093-4729-A949-5010B7941598}.Release|x86.ActiveCfg = Release|Win32
+		{142D2942-B093-4729-A949-5010B7941598}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
