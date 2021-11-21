@@ -1,5 +1,5 @@
 #pragma once
-#include "sdfx.h";
+#include "sdfx.h"
 
 void FillRand(int * arr , int * n) {
 	for (int i = 0; i < *n; i++)

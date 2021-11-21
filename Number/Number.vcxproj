@@ -144,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="FillRand.h" />
     <ClInclude Include="Functions.h" />
+    <ClInclude Include="OddEven.h" />
     <ClInclude Include="Print.h" />
     <ClInclude Include="sdfx.h" />
   </ItemGroup>
