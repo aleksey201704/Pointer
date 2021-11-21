@@ -1,4 +1,4 @@
-#pragma once
+ï»¿#pragma once
 #include "sdfx.h"
 
 
@@ -19,14 +19,14 @@ template <typename T> void OddEven(T even[], T odd[], T arr[], int* n)
 		}
 
 	}
-	cout << "×åòíûå - ";
+	cout << "Ð§ÐµÑ‚Ð½Ñ‹Ðµ - ";
 	for (int i = 0; i < p; i++)
 	{
 		cout << even[i] << "\t";
 	}
 
 	cout << endl;
-	cout << "Íå÷åòíûå  - ";
+	cout << "ÐÐµÑ‡ÐµÑ‚Ð½Ñ‹Ðµ  - ";
 
 	for (int i = 0; i < np; i++)
 	{
